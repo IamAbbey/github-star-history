@@ -4,6 +4,8 @@ Demo web app using React, Shadcn UI Charts and Streaming Github star history dat
 
 This project uses the brand new shadcn/ui charts library - https://ui.shadcn.com/charts.
 
+<video controls autoplay alt="Demo video" src="https://github.com/user-attachments/assets/05b09f22-a3e9-4567-9f11-0b62253af012"></video>
+
 ## ✨ Features
 
 - Mutiple **chart** view support;
