@@ -15,7 +15,6 @@ This project uses the brand new shadcn/ui charts library - https://ui.shadcn.com
    - Area Chart
 - Support multiple chart theme
 - **One-click** generation of **high-quality** image for chart;
-- **Embed** the **real-time chart** into **`GitHub readme or other websites`** **(like the one we embed here on the top)**
 - And **various** useful **functions**:
   - toggle **repo visibility**;
   - **shortcut** to input repo;
